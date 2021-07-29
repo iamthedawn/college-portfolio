@@ -1,0 +1,143 @@
+{
+	"basics": {
+		"name": "Nishant Mourya",
+		"label": "Student",
+		"picture": "https://raw.githubusercontent.com/iamthedawn/content/main/nishantmourya.png",
+		"email": "2019kuec2010@iiitkota.ac.in",
+		"phone": "9084237816",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "A student of Electronics and Communication at IIIT, Kota with keen Interest in Web Development and Competitive Programming. I'm Enthusiastic quick learner and can grasp new things quickly.",
+		"location": {
+			"address": "-----",
+			"postalCode": "-----",
+			"city": "Bareilly",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/nishhant__"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://www.github.com/iamthedawn/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/nishantmourya/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com/nishhant__"
+			}
+		]
+	},
+	"work": [{
+		"company": "Skillship Foundation",
+		"position": "Web Developer Intern",
+		"website": "https://skillshipfoundation.com/",
+		"startDate": "2020-07-16//Take care about Date Format",
+		"endDate": "2021-01-31 // ",
+		"summary": "India’s Fastest growing Technical & Non-technical Community",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "Fit India Club",
+		"position": "Club Lead",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Official Fitness Club of IIIT,Kota",
+		"highlights": []
+	},
+    {
+		"organization": "CodeBase IIIT,Kota",
+		"position": "Core Member",
+		"website": "---",
+		"startDate": "2020-10-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Open Source Society of IIIT,Kota",
+		"highlights": []
+	},
+    {
+		"organization": "Incognito",
+		"position": "Core Member",
+		"website": "---",
+		"startDate": "2021-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Cultural Club IIIT,Kota",
+		"highlights": []
+	},
+    {
+		"organization": "IIIT Kernel",
+		"position": "Core Member",
+		"website": "---",
+		"startDate": "2020-11-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Alumni Forum, IIIT Kota",
+		"highlights": []
+	},
+    {
+		"organization": "Jal Shakti Team",
+		"position": "Core Member",
+		"website": "---",
+		"startDate": "2020-10-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Social Initiative by Students of IIIT, Kota",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-05-08 //Date",
+		"endDate": "----",
+		"gpa": "8.02",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "Won 2nd Prize for Poster Making",
+		"awarder": "Director, IIIT Kota",
+		"date": "2020-08-21//Date"
+	},
+    {
+		"title": "Runner up at Vivacity,Nukkad Natak Competition",
+		"awarder": "LNMIT Fest Organizing Committee",
+		"date": "2020-02-04//Date"
+	}],
+	"publications": [{
+		"title": "Fit India Club Website",
+		"details": "Official Website of Fitness Club of IIIT, Kota",
+		"link": "https://fitindiaiiitkota.vercel.app/"
+	},
+    {
+		"title": "Poem: क्या कोई है जो मेरा बचपन लौटा दे?",
+		"details": "Jul 10, 2021 • Quills n Stills: Childhood Diaries",
+		"link": "https://online.pubhtml5.com/ltmr/zpcz/#p=74"
+	},
+    {
+		"title": "Poem: जब वो थे तो",
+		"details": "Apr 1, 2021 • Quills n Stills: Poetic Musings",
+		"link": "https://online.pubhtml5.com/ltmr/fmmz/#p=40"
+	},
+    {
+		"title": "Poem: एक-अनेक",
+		"details": "Feb 1, 2021 • Quills n Stills: The Wonders of Science",
+		"link": "https://online.pubhtml5.com/ltmr/tcwp/#p=22"
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "SQL", "C/C++", "Express", "Bootstrap", "jQuery", "Python", "LaTeX"]
+	}],
+	"interests": [{
+		"name": "Extra Curricular",
+		"keywords": ["Acting", "Debating", "Poetry"]
+	}],
+	"references": []
+}

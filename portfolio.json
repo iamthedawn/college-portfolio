@@ -16,22 +16,22 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
+				"username": "nishhant__",
 				"url": "https://www.twitter.com/nishhant__"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "iamthedawn",
 				"url": "https://www.github.com/iamthedawn/"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "nishantmourya",
 				"url": "https://www.linkedin.com/in/nishantmourya/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
+				"username": "nishhant__",
 				"url": "https://instagram.com/nishhant__"
 			}
 		]
